@@ -1,0 +1,9 @@
+.warp div {
+    background-color: red;
+    width: 32.3%;
+    margin: 3px;
+}
+.warp {
+    display: flex;
+    flex-wrap: wrap;
+}
